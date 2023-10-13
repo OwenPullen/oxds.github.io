@@ -1,1 +1,1 @@
-# odds.github.io
+# Oxford Data Science Society
